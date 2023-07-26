@@ -1,0 +1,756 @@
+[
+    {
+        "T1": "Bonne fete",
+        "T2": "French",
+        "T11": "P F B",
+        "T6": [
+            "HOLIDAYS",
+            "BIRTHDAYS"
+        ]
+    },
+    {
+        "T1": "Although I'm Busy",
+        "T2": "English",
+        "T11": "P.A. Owen Co.",
+        "T6": [
+            "POSTCARDSABOUTPOSTCARDS"
+        ]
+    },
+    {
+        "T1": "Le Page's Glue",
+        "T2": "English",
+        "T11": "N.O. Aluminum Co.",
+        "T6": [
+            "ADVERTISEMENTS"
+        ]
+    },
+    {
+        "T1": "Clark Autotram",
+        "T2": "English",
+        "T11": "Clark Equipment Co.",
+        "T6": [
+            "ADVERTISEMENTS"
+        ]
+    },
+    {
+        "T1": "",
+        "T6": [
+            "POSTCARDSABOUTPOSTCARDS"
+        ]
+    },
+    {
+        "T1": "Thanksgiving Greetings",
+        "T2": "English",
+        "T6": [
+            "HOLIDAYS",
+            "THANKSGIVING",
+            "ANIMALS",
+            "BIRDS",
+            "PEOPLE",
+            "CHILDREN"
+        ]
+    },
+    {
+        "T1": "Thanksgiving Greetings",
+        "T2": "English",
+        "T6": [
+            "HOLIDAYS",
+            "THANKSGIVING"
+        ]
+    },
+    {
+        "T1": "To My Valentine",
+        "T2": "English",
+        "T11": "Leubrie & Elkus",
+        "T6": [
+            "HOLIDAYS",
+            "VALENTINESDAY",
+            "PEOPLE",
+            "WOMEN"
+        ]
+    },
+    {
+        "T1": "Greetings from",
+        "T2": "English",
+        "T11": "Paul Finkenrath",
+        "T6": [
+            "TRANSPORTATION",
+            "BOATS",
+            "NATURE",
+            "OTHER"
+        ]
+    },
+    {
+        "T1": "Eggspatiation",
+        "T2": "English",
+        "T6": [
+            "ANIMALS",
+            "OTHER",
+            "BIRDS"
+        ]
+    },
+    {
+        "T1": "Westminster: Sandwichmen Blue coat boy.",
+        "T2": "English",
+        "T6": [
+            "POSTCARDSABOUTPOSTCARDS"
+        ]
+    },
+    {
+        "T1": "Pub. by W. A. Goehringer Milton. N. Y.\nOur Cream Soda Store at Christmas time.",
+        "T2": "English",
+        "T6": [
+            "HOLIDAYS",
+            "CHRISTMAS",
+            "BUILDINGS",
+            "STORESSHOPS"
+        ]
+    },
+    {
+        "T1": "A Merry Cristmas",
+        "T2": "English",
+        "T6": [
+            "HOLIDAYS",
+            "CHRISTMAS"
+        ]
+    },
+    {
+        "T1": "Loving Birthday Greetings",
+        "T2": "English",
+        "T11": "PBF",
+        "T6": [
+            "NATURE",
+            "FLOWERS",
+            "HOLIDAYS",
+            "BIRTHDAYS"
+        ]
+    },
+    {
+        "T1": "Won't you be my valentine",
+        "T2": "English",
+        "T6": [
+            "ANIMALS",
+            "BIRDS",
+            "TRANSPORTATION",
+            "AUTOMOBILES",
+            "HOLIDAYS",
+            "VALENTINESDAY"
+        ]
+    },
+    {
+        "T1": "A happy birthday",
+        "T2": "English",
+        "T6": [
+            "NATURE",
+            "FLOWERS",
+            "HOLIDAYS",
+            "BIRTHDAYS",
+            "ANIMALS",
+            "BIRDS",
+            "OTHER"
+        ]
+    },
+    {
+        "T1": "Groet uit",
+        "T2": "Dutch",
+        "T6": [
+            "OTHER"
+        ]
+    },
+    {
+        "T1": "Before our time a picture postcard from Claude",
+        "T2": "English",
+        "T11": "G&P",
+        "T6": [
+            "HUMOR",
+            "CARICATURESANDCARTOONS",
+            "POSTCARDSABOUTPOSTCARDS"
+        ]
+    },
+    {
+        "T1": "Moderne bildung die ist fein, Mephisto ist der lehrer dein",
+        "T2": "German",
+        "T6": [
+            "HUMOR",
+            "CARICATURESANDCARTOONS"
+        ]
+    },
+    {
+        "T1": "Throw me hope or I perish",
+        "T2": "English",
+        "T11": "L. & E.",
+        "T6": [
+            "HOLIDAYS",
+            "VALENTINESDAY",
+            "PEOPLE",
+            "WOMEN",
+            "TRANSPORTATION",
+            "BOATS"
+        ]
+    },
+    {
+        "T1": "Card house at the Petrified Forest on the Santa Rosa-Calistoga road north of S.F.",
+        "T2": "English",
+        "T6": [
+            "NATURE",
+            "OTHER"
+        ]
+    },
+    {
+        "T1": "\"Hallowe'en\"",
+        "T2": "English",
+        "T6": [
+            "HOLIDAYS",
+            "HALLOWEEN"
+        ]
+    },
+    {
+        "T1": "Always Room for One More",
+        "T2": "English",
+        "T11": "McClintock's New Jersey",
+        "T6": [
+            "ADVERTISEMENTS"
+        ]
+    },
+    {
+        "T1": "A Merry Christmas",
+        "T2": "English",
+        "T11": "THE AUBURN POST CARD CO.",
+        "T6": [
+            "HOLIDAYS",
+            "CHRISTMAS"
+        ]
+    },
+    {
+        "T1": "",
+        "T2": "English",
+        "T6": [
+            "NATURE",
+            "FLOWERS"
+        ]
+    },
+    {
+        "T1": "May your apple-paring make the right letter!",
+        "T2": "English",
+        "T6": [
+            "HOLIDAYS",
+            "HALLOWEEN"
+        ]
+    },
+    {
+        "T1": "Le bon ange chasse au loin le serpent Toui pret a piquer la mignonne enfant",
+        "T2": "French",
+        "T6": [
+            "RELIGION",
+            "OTHER"
+        ]
+    },
+    {
+        "T1": "",
+        "T2": "English",
+        "T11": "FotoFun",
+        "T6": [
+            "TRANSPORTATION",
+            "OTHER"
+        ]
+    },
+    {
+        "T1": "Lobby Beaumont Hotel, Ouray, Colo. Sanborn",
+        "T2": "English",
+        "T6": [
+            "BUILDINGS",
+            "HOTELS"
+        ]
+    },
+    {
+        "T1": "Bill Sunday talking \"Booze\" to 7,000 Men Crowded inside Decatur Tabernacle and several outside listening at the Windows",
+        "T2": "English",
+        "T6": [
+            "ENTERTAINERS",
+            "ALCOHOL"
+        ]
+    },
+    {
+        "T1": "",
+        "T2": "English",
+        "T6": [
+            "ANIMALS",
+            "DOGS"
+        ]
+    },
+    {
+        "T1": "I wasn't born to labor",
+        "T2": "English",
+        "T11": "Detroit Photographic Co.",
+        "T6": [
+            "POLITICSANDGOVERNMENT",
+            "OTHER",
+            "PEOPLE",
+            "AFRICANAMERICANS",
+            "CHILDREN",
+            "PORTRAITPHOTOGRAPHY"
+        ]
+    },
+    {
+        "T1": "Souvenir of St. Louis",
+        "T2": "English",
+        "T11": "E. C. Kropp Publishers",
+        "T6": [
+            "BUILDINGS",
+            "PUBLICBUILDINGS"
+        ]
+    },
+    {
+        "T1": "Perfumed with Hoyt's German Cologne",
+        "T2": "English",
+        "T11": "E. W. Hoyt & Co.",
+        "T6": [
+            "ADVERTISEMENTS",
+            "ANIMALS",
+            "DOGS",
+            "PEOPLE",
+            "CHILDREN"
+        ]
+    },
+    {
+        "T1": "Easter Greetings",
+        "T2": "English",
+        "T6": [
+            "ANIMALS",
+            "BIRDS",
+            "HOLIDAYS",
+            "EASTER"
+        ]
+    },
+    {
+        "T1": "Thou shalt not steal",
+        "T2": "English",
+        "T11": "Phila. Post Card Co.",
+        "T6": [
+            "RELIGION",
+            "CHRISTIANITY"
+        ]
+    },
+    {
+        "T1": "Shepherds abiding in the field",
+        "T2": "English",
+        "T11": "S. P. C. K.",
+        "T6": [
+            "RELIGION",
+            "CHRISTIANITY"
+        ]
+    },
+    {
+        "T1": "Hands up, Santa!",
+        "T2": "English",
+        "T11": "Whitney Worcester",
+        "T6": [
+            "HOLIDAYS",
+            "CHRISTMAS",
+            "RELIGION",
+            "CHRISTIANITY",
+            "PEOPLE",
+            "CHILDREN"
+        ]
+    },
+    {
+        "T1": "Drew's Book, Stationary and Art Store",
+        "T2": "English",
+        "T11": "The Drew Press",
+        "T6": [
+            "ADVERTISEMENTS"
+        ]
+    },
+    {
+        "T1": "Loving Birthday Greetings",
+        "T2": "English",
+        "T6": [
+            "HOLIDAYS",
+            "BIRTHDAYS",
+            "NATURE",
+            "FLOWERS"
+        ]
+    },
+    {
+        "T1": "A merry Christmas",
+        "T2": "English",
+        "T6": [
+            "HOLIDAYS",
+            "CHRISTMAS",
+            "RELIGION",
+            "CHRISTIANITY"
+        ]
+    },
+    {
+        "T1": "Benjamin Harrison, twenty-third President of the U.S. Served one term - from March 4, 1889 to March 3, 1893.",
+        "T2": "English",
+        "T11": "Raphael Tuck and Sons",
+        "T6": [
+            "PEOPLE",
+            "PORTRAITPAINTING",
+            "POLITICSANDGOVERNMENT",
+            "PRESIDENTS"
+        ]
+    },
+    {
+        "T1": "On New-Year's Eve, it doth appear The Wind foretells the coming year. So blow it North, South, East or West Be that the wind that suits you best.",
+        "T2": "English",
+        "T11": "L. & E. ",
+        "T6": [
+            "HOLIDAYS",
+            "NEWYEAR"
+        ]
+    },
+    {
+        "T1": "Votes for Women",
+        "T2": "English",
+        "T6": [
+            "PEOPLE",
+            "WOMEN",
+            "POLITICSANDGOVERNMENT",
+            "SUFFRAGE"
+        ]
+    },
+    {
+        "T1": "The Alton T. Sturdevant Photo Gallery, Mountain Park - Est. June 23, 1883",
+        "T2": "English",
+        "T6": [
+            "BUILDINGS",
+            "STORESSHOPS",
+            "ADVERTISEMENTS"
+        ]
+    },
+    {
+        "T1": "Every little bit helps",
+        "T2": "English",
+        "T6": [
+            "RACISTSTEREOTYPES",
+            "HOLIDAYS",
+            "FOURTHOFJULY",
+            "POLITICSANDGOVERNMENT",
+            "PATRIOTISM"
+        ]
+    },
+    {
+        "T1": "Thanksgiving Day the turkey's not the only thing that's stuffed!",
+        "T2": "English",
+        "T6": [
+            "HOLIDAYS",
+            "THANKSGIVING",
+            "PEOPLE",
+            "CHILDREN",
+            "ANIMALS",
+            "DOGS"
+        ]
+    },
+    {
+        "T1": "",
+        "T2": "English",
+        "T6": [
+            "ADVERTISEMENTS",
+            "TRANSPORTATION",
+            "AUTOMOBILES"
+        ]
+    },
+    {
+        "T1": "Meiji Jingu (Shrine) Tokyo",
+        "T2": "English",
+        "T6": [
+            "BUILDINGS",
+            "MONUMENTS"
+        ]
+    },
+    {
+        "T1": "",
+        "T2": "English",
+        "T6": [
+            "ANIMALS",
+            "HORSES",
+            "PEOPLE",
+            "CROWDS",
+            "TRANSPORTATION",
+            "CARRIAGESANDCARTS"
+        ]
+    },
+    {
+        "T1": "When the ruddy fruit is gather and the harvest work is done, may your heart have cause for thanks for all the bounty won!",
+        "T2": "English",
+        "T11": "L. & B.",
+        "T6": [
+            "HOLIDAYS",
+            "THANKSGIVING",
+            "AGRICULTURE",
+            "ANIMALS",
+            "BIRDS"
+        ]
+    },
+    {
+        "T1": "Loving Birthday Greetings",
+        "T2": "English",
+        "T6": [
+            "NATURE",
+            "FLOWERS",
+            "HOLIDAYS",
+            "BIRTHDAYS"
+        ]
+    },
+    {
+        "T1": "Christmas Greetings",
+        "T2": "English",
+        "T6": [
+            "HOLIDAYS",
+            "CHRISTMAS",
+            "PEOPLE",
+            "CHILDREN"
+        ]
+    },
+    {
+        "T1": "",
+        "T2": "English",
+        "T11": "L. & E.",
+        "T6": [
+            "HOLIDAYS",
+            "BIRTHDAYS",
+            "PEOPLE",
+            "WOMEN"
+        ]
+    },
+    {
+        "T1": "They got out an extra for me!",
+        "T2": "English",
+        "T6": [
+            "POLITICSANDGOVERNMENT",
+            "OTHER"
+        ]
+    },
+    {
+        "T1": "",
+        "T2": "English",
+        "T6": [
+            "PEOPLE",
+            "BABIES",
+            "PORTRAITPAINTING"
+        ]
+    },
+    {
+        "T1": "Tent View, Camp Beauregard, Alexandria, La.",
+        "T2": "English",
+        "T11": "A. M. Simon",
+        "T6": [
+            "STREETVIEWS",
+            "STREETS",
+            "BUILDINGS",
+            "RESIDENCES"
+        ]
+    },
+    {
+        "T1": "Interior of L. W. Snow's Store, Columbus, Neb., Where You Buy Your Post Cards",
+        "T2": "English",
+        "T6": [
+            "POSTCARDSABOUTPOSTCARDS",
+            "ADVERTISEMENTS"
+        ]
+    },
+    {
+        "T1": "Lava cascade and the Devil's picture frame: crater of Kilauea, Hawaii",
+        "T2": "English",
+        "T6": [
+            "NATURE",
+            "OTHER"
+        ]
+    },
+    {
+        "T1": "Christmas greetings",
+        "T2": "English",
+        "T6": [
+            "HOLIDAYS",
+            "CHRISTMAS"
+        ]
+    },
+    {
+        "T1": "Wie die Welt so bose ist und volt urger Hinterlist. Zeigt des edien Dulders Prin -- Ach, and Hohn noch obenein!",
+        "T2": "German",
+        "T6": [
+            "ANIMALS",
+            "OTHER"
+        ]
+    },
+    {
+        "T1": "Pour l'homme quelle felicite, quand ton chiffon rouge est cloue",
+        "T2": "French",
+        "T6": [
+            "PEOPLE",
+            "WOMEN",
+            "OTHER"
+        ]
+    },
+    {
+        "T1": "13th Annual Wichita Postcard Club Show",
+        "T2": "English",
+        "T11": "Wichita Postcard Club",
+        "T6": [
+            "POSTCARDSABOUTPOSTCARDS"
+        ]
+    },
+    {
+        "T1": "Christmas Greetings",
+        "T2": "English",
+        "T6": [
+            "HOLIDAYS",
+            "CHRISTMAS",
+            "RELIGION",
+            "CHRISTIANITY"
+        ]
+    },
+    {
+        "T1": "Fur feinfarbige Schuhe Erdal flussig!",
+        "T2": "German",
+        "T11": "Werne & Mertz",
+        "T6": []
+    },
+    {
+        "T1": "Banner Used by the Ku-Klux",
+        "T2": "English",
+        "T11": "Guilford Chapter, NC Division, Daughters of the Confederacy",
+        "T6": [
+            "POLITICSANDGOVERNMENT",
+            "OTHER",
+            "OTHER"
+        ]
+    },
+    {
+        "T1": "Temptation",
+        "T2": "English",
+        "T6": [
+            "ANIMALS",
+            "DOGS"
+        ]
+    },
+    {
+        "T1": "Tents and rear of mess halls, Camp Beauregard, Alexandria, La.",
+        "T2": "English",
+        "T11": "A.M. Simon",
+        "T6": [
+            "MILITARY"
+        ]
+    },
+    {
+        "T1": "This is The House that Man built",
+        "T2": "English",
+        "T6": [
+            "POLITICSANDGOVERNMENT",
+            "SUFFRAGE"
+        ]
+    },
+    {
+        "T1": "Joyeux Noel",
+        "T2": "French",
+        "T6": [
+            "HOLIDAYS",
+            "CHRISTMAS"
+        ]
+    },
+    {
+        "T1": "Today I choose my valentine",
+        "T2": "English",
+        "T11": "L. & E. ",
+        "T6": [
+            "HOLIDAYS",
+            "VALENTINESDAY"
+        ]
+    },
+    {
+        "T1": "Rachel and Little Joseph",
+        "T2": "English",
+        "T11": "Pentecostal Publishing Co.",
+        "T6": [
+            "RELIGION",
+            "CHRISTIANITY",
+            "PEOPLE",
+            "WOMEN",
+            "CHILDREN"
+        ]
+    },
+    {
+        "T1": "",
+        "T2": "English",
+        "T6": [
+            "ANIMALS",
+            "DOGS",
+            "CATS",
+            "SPORTS",
+            "HUNTING"
+        ]
+    },
+    {
+        "T1": "Sunshine Post Card Club presents Sun-Cax '85 Tampa, Florida February 2 & 3, 1985",
+        "T2": "English",
+        "T11": "3-Starr Press",
+        "T6": [
+            "POSTCARDSABOUTPOSTCARDS"
+        ]
+    },
+    {
+        "T1": "I ran across old man Smith today",
+        "T2": "English",
+        "T6": [
+            "TRANSPORTATION",
+            "AUTOMOBILES",
+            "HUMOR",
+            "CARICATURESANDCARTOONS"
+        ]
+    },
+    {
+        "T1": "Kalispell Drug Co., \"Palace Pharmacy\" 136 Main St, Phone 198, Kalispell Montana",
+        "T2": "English",
+        "T11": "Spokane Post Card Co",
+        "T6": [
+            "ADVERTISEMENTS",
+            "BUILDINGS",
+            "STORESSHOPS"
+        ]
+    },
+    {
+        "T1": "",
+        "T2": "English",
+        "T6": [
+            "PEOPLE",
+            "WOMEN",
+            "OTHER",
+            "MILITARY",
+            "POLITICSANDGOVERNMENT",
+            "OTHER"
+        ]
+    },
+    {
+        "T1": "Darker and darker The black shadows fall; Sleep and oblivion Reign over all. hongfellow",
+        "T2": "English",
+        "T6": [
+            "NATURE",
+            "FLOWERS",
+            "RIVERS",
+            "LAKES"
+        ]
+    },
+    {
+        "T1": "Carrie nation Arriving at the Oaks Hotel Clear Lake, IA",
+        "T2": "English",
+        "T6": [
+            "PEOPLE",
+            "AFRICANAMERICANS",
+            "WOMEN",
+            "TRANSPORTATION",
+            "RAILROADS"
+        ]
+    },
+    {
+        "T1": "Christ Blessing the Little Children One of the Thirty Five",
+        "T2": "English",
+        "T6": [
+            "RELIGION",
+            "CHRISTIANITY",
+            "PEOPLE",
+            "CHILDREN"
+        ]
+    }
+]

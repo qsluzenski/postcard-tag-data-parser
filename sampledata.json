@@ -1,0 +1,91 @@
+[
+  {
+    "task": "T0",
+    "task_label": null,
+    "value": [
+      {
+        "task": "T1",
+        "value": "Bonne fete",
+        "task_label": "**Please note:** Some postcards in these collections contain offensive language and imagery. The Newberry retains these items for historical research value. For more information, see our Tutorial, linked above.\n\n\n**Is there a caption printed on the front of the card?** If so, write it in the box below. Don't transcribe handwritten messages from the back of the card--you can work on those by going to \"Transcribe Postcard Messages\" on the homepage.\n\nGuidelines:\n- Omit any series numbers preceding caption\n- Capitalize first word and proper nouns only\n- Omit diacritics and ending punctuation\n- Disregard line breaks\n\n**Caption:**"
+      },
+      {
+        "task": "T2",
+        "value": [
+          {
+            "select_label": "Language",
+            "option": true,
+            "value": "ae9bd4ba06b1c",
+            "label": "French"
+          }
+        ]
+      },
+      {
+        "task": "T3",
+        "value": "",
+        "task_label": "**If there is no caption:** devise a brief, descriptive title for the postcard image, e.g. \"Woman holding flowers\""
+      }
+    ]
+  },
+  {
+    "task": "T8",
+    "task_label": null,
+    "value": [
+      {
+        "task": "T9",
+        "value": "",
+        "task_label": "**Transcribe if present:**\n\n**Year of publication or copyright:**"
+      },
+      { "task": "T20", "value": "", "task_label": "**Year of postmark:**" },
+      { "task": "T11", "value": "P F B", "task_label": "**Publisher:**" }
+    ]
+  },
+  {
+    "task": "T12",
+    "task_label": null,
+    "value": [
+      { "task": "T14", "value": [{ "select_label": "select state:" }] },
+      { "task": "T15", "value": "", "task_label": "Enter U.S. city name:" },
+      {
+        "task": "T17",
+        "value": "",
+        "task_label": "For **non-U.S. locations,** enter country name:"
+      },
+      {
+        "task": "T18",
+        "value": "",
+        "task_label": "enter name of non-U.S. city:"
+      },
+      {
+        "task": "T21",
+        "value": "",
+        "task_label": "If another kind of location can be identified (e.g. region, body of water), enter that below:"
+      },
+      {
+        "task": "T19",
+        "task_label": "If place information is not present, click this button:",
+        "value": "Unidentified"
+      }
+    ]
+  },
+  {
+    "task": "T5",
+    "task_label": null,
+    "value": [
+      {
+        "task": "T6",
+        "value": [
+          {
+            "choice": "HOLIDAYS",
+            "answers": { "WHICHHOLIDAY": ["BIRTHDAYS"] },
+            "filters": {}
+          }
+        ]
+      },
+      {
+        "task": "T7",
+        "value": "",
+        "task_label": "Use the above menu to choose the most applicable subject(s) of the postcard image. You may choose more than one, but you must click \"Identify\" in order to complete each selection.\n\nAll categories have more information when you click on them; some of them have more specific sub-categories you can also select. If nothing fits the image, choose \"Other\" and use the box below to create your own category."
+      }
+    ]
+  }
+]
