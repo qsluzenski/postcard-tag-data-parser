@@ -36,7 +36,7 @@ def find_task_values(csv_file_path):
                     for i in data_dict:
                         if i['task'] == 'T0':
                             for j in i["value"]:
-                                if j['task'] == 'T1':
+                                if j['task'] == 'T1' and len(j["value"]) > 0:
                                     outpObj["T1"] = j["value"]
                                 elif j['task'] == 'T2':
                                     outpObj["T2"] = []
@@ -59,6 +59,8 @@ def find_task_values(csv_file_path):
                                         # if this choice doesnt have a question / isn't in our QA dict, move on
                                         except KeyError: 
                                             pass
+                                elif j['task'] == 'T7' and len( j["value"] ) > 0:
+                                    outpObj["T7"] = j["value"]
                         if i['task'] == 'T8':
                             for j in i["value"]:
                                 if j['task'] == 'T9' and len( j["value"] ) > 0:
@@ -67,6 +69,22 @@ def find_task_values(csv_file_path):
                                     outpObj["T11"] = j["value"]
                                 elif j['task'] == 'T20' and len( j["value"] ) > 0:
                                     outpObj["T20"] = j["value"]
+                        if i['task'] == 'T12':
+                            for j in i["value"]:
+                                if j['task'] == 'T14':
+                                    outpObj["T14"] = []
+                                    for lang in j["value"]:
+                                        outpObj["T14"].append(lang["label"])
+                                elif j['task'] == 'T15' and len(j["value"]) > 0:
+                                    outpObj["T15"] = j["value"]
+                                elif j['task'] == 'T17' and len(j["value"]) > 0:
+                                    outpObj["T17"] = j["value"]
+                                elif j['task'] == 'T18' and len(j["value"]) > 0:
+                                    outpObj["T18"] = j["value"]
+                                elif j['task'] == 'T21' and len(j["value"]) > 0:
+                                    outpObj["T21"] = j["value"]
+                                elif j['task'] == 'T19':
+                                    outpObj["T19"] = j["value"]
                     output.append(outpObj)
             except json.JSONDecodeError:
                 print('json parse FAIL')
