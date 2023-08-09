@@ -39,9 +39,9 @@ def find_task_values(csv_file_path):
                                 if j['task'] == 'T1' and len(j["value"]) > 0:
                                     outpObj["T1"] = j["value"]
                                 elif j['task'] == 'T2':
-                                    outpObj["T2"] = []
-                                    for lang in j["value"]:
-                                        outpObj["T2"].append(lang["label"])
+                                    for l in j["value"]:
+                                        if "label" in l:
+                                            outpObj["T2"] = l["label"]
                                 elif j['task'] == 'T3' and len(j["value"]) > 0:
                                     outpObj["T3"] = j["value"]
                         if i['task'] == 'T5':
@@ -72,9 +72,9 @@ def find_task_values(csv_file_path):
                         if i['task'] == 'T12':
                             for j in i["value"]:
                                 if j['task'] == 'T14':
-                                    outpObj["T14"] = []
-                                    for lang in j["value"]:
-                                        outpObj["T14"].append(lang["label"])
+                                    for l in j["value"]:
+                                        if "label" in l:
+                                            outpObj["T14"] = l["label"]
                                 elif j['task'] == 'T15' and len(j["value"]) > 0:
                                     outpObj["T15"] = j["value"]
                                 elif j['task'] == 'T17' and len(j["value"]) > 0:
@@ -93,7 +93,7 @@ def find_task_values(csv_file_path):
     
     return output, justJson
 
-csv_file_path = 'data.csv'  # Replace with your CSV file path
+csv_file_path = 'C:/Users/sluzenskiq/Downloads/data.csv'  # Replace with your CSV file path
 outputList, justJson = find_task_values(csv_file_path)
 # print(outputList)
 
@@ -104,5 +104,3 @@ jjson_file_path = 'json.json'  # Replace with the desired output JSON file path
 save_dict_to_json(justJson, jjson_file_path)
 
 print(f"Dictionary has been saved as {json_file_path}.")
-
-
